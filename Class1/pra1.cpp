@@ -36,6 +36,7 @@ int main() {
 */
 
 //Á·Ï°Èý
+/*
 int main()
 {
 	cv::Mat srcMat = imread("E:\\dignal picture\\1.jpg");
@@ -60,3 +61,4 @@ int main()
 	imshow("src", srcMat);
 	waitKey(0);
 }
+*/
